@@ -9,7 +9,7 @@
 <h2>Content Delivery API (CDA)</h2>
 <p>Version: 1.0.0 <a
     href="https://assets.contentstack.io/v3/assets/bltc5a09bf374882538/blt318e89ee28df7712/600a93fc0839e910126d6026/cda-openapi.json?disposition=download">[Download]</a></p>
-<p>Last Updated: {Date, e.g., Dec 5, 2021}</p>
+<p>Last Updated: Jan 22, 2021</p>
 <p><strong>Note</strong>: To use the latest version, <a
     href="https://assets.contentstack.io/v3/assets/bltc5a09bf374882538/blt318e89ee28df7712/600a93fc0839e910126d6026/cda-openapi.json?disposition=download">download
     the CDA file</a> on your system. </p>
@@ -38,7 +38,7 @@
 <h2>Content Management API</h2>
 <p>Version: 1.0.0 <a
     href="https://assets.contentstack.io/v3/assets/bltc5a09bf374882538/blt35dc5eaeb2cfc52d/600a93fd4485e50f8f209efe/cma-openapi.json?disposition=download">[Download]</a></p>
-<p>Last Updated: {Date, e.g., Dec 5, 2021}</p>
+<p>Last Updated: Jan 22, 2021</p>
 <p><strong>Note</strong>: To use the latest version, <a
     href="https://assets.contentstack.io/v3/assets/bltc5a09bf374882538/blt35dc5eaeb2cfc52d/600a93fd4485e50f8f209efe/cma-openapi.json?disposition=download">download
     the CMA file</a> on your system. </p>
