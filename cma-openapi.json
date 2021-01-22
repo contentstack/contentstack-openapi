@@ -13,8 +13,8 @@
   ],
   "info": {
     "version": "069fffc7-42a2-4421-ac05-1fd7c062ac46",
-    "title": "Content Management API - Contentstack",
-    "description": "The Content Management API (CMA) Requests can be used to manage the content of your Contentstack account. The CMA Requests help you create, update, delete, and fetch content of your account.\n\nThe Contentstack CMA Postman Collection is a set of preconfigured REST API requests that will make it easy for you to get started with the [Contentstack Management APIs](https://www.contentstack.com/docs/developers/apis/content-management-api/) and try out our API requests through the [Postman](https://www.getpostman.com/) REST client.\n\n**Postman Collection Details\n**\n\n- CMA Postman Collection Version: 2.1.0\n- Last Updated: July 23, 2020",
+    "title": "Contentstack Content Management API OpenAPI Specification",
+    "description": "Contentstack provides a set of read-write APIs that enables you to interact with the information and perform any tasks within your Contentstack account. You can create\/edit\/delete entries and assets, manage Content Types, etc., using these APIs.\r\n\r\nContentstack provides an OpenAPI JSON file that consists of a set of preconfigured REST API requests that will make it easy for you to get started with the Contentstack Management APIs and try out our API requests through the Swagger Editor.\r\n\r\nCMA OpenAPI Details\r\n\r\nVersion: 1.0.0\r\nLast Updated: Jan 22, 2021\r\n",
     "termsOfService": "",
     "contact": {},
     "license": {

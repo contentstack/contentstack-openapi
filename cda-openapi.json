@@ -13,8 +13,8 @@
   ],
   "info": {
       "version": "d62d04a4-0619-4164-86c9-a83b3ce5014d",
-      "title": "Content Delivery API - Contentstack",
-      "description": "The Content Delivery API (CDA), available at [cdn.contentstack.com](https://cdn.contentstack.com), is a read-only API used to retrieve content from your Contentstack account and deliver it to your web or mobile properties.\n\nThe Contentstack CDA Postman Collection is a set of preconfigured REST API requests that will make it easy for you to get started with the [Contentstack Delivery APIs](https://www.contentstack.com/docs/developers/apis/content-delivery-api/) and try out our API requests through the [Postman](https://www.getpostman.com/) REST client.\n\n**Postman Collection Details**\n\n- CDA Postman Collection Version: 1.1.1\n- Last Updated: December 5, 2020",
+      "title": "Contentstack Content Delivery API OpenAPI Specification",
+      "description": "The Content Delivery API (CDA), available at cdn.contentstack.com, is a read-only API used to retrieve content from your Contentstack account and deliver it to your web or mobile properties.\r\n\r\nContentstack provides an OpenAPI JSON file that consists of a set of preconfigured REST API requests that will make it easy for you to get started with the Contentstack Delivery APIs and try out our API requests through the Swagger Editor.\r\n\r\nCDA OpenAPI Details\r\n\r\nVersion: 1.0.0\r\nLast Updated: Jan 22, 2021\r\n",
       "termsOfService": "",
       "contact": {},
       "license": {
