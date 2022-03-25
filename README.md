@@ -7,16 +7,16 @@
 <p>This tutorial will walk you through the process of using Contentstack APIs (Content Delivery and Content Management
   APIs) with Swagger.</p><br>
 <h2>Content Delivery API (CDA)</h2>
-<p>Version: 1.0.0 <a
-    href="https://assets.contentstack.io/v3/assets/bltc5a09bf374882538/blt318e89ee28df7712/6166cb0c56faa61e63fde02b/cda-openapi-3.json?disposition=download">[Download]</a></p>
-<p>Last Updated: Jan 22, 2021</p>
+<p>Version: 2.0.1 <a
+    href="https://raw.githubusercontent.com/contentstack/contentstack-openapi/master/cda-openapi-3.json">[Download]</a></p>
+<p>Last Updated: Mar 24, 2022</p>
 <p><strong>Note</strong>: To use the latest version, <a
-    href="https://assets.contentstack.io/v3/assets/bltc5a09bf374882538/blt318e89ee28df7712/6166cb0c56faa61e63fde02b/cda-openapi-3.json?disposition=download">download
+    href="https://raw.githubusercontent.com/contentstack/contentstack-openapi/master/cda-openapi-3.json">download
     the CDA file</a> on your system. </p>
 <p>To use Contentstack Content Delivery API (CDA) with Swagger, perform the following steps: </p>
 <ol>
   <li><a
-      href="https://assets.contentstack.io/v3/assets/bltc5a09bf374882538/blt318e89ee28df7712/6166cb0c56faa61e63fde02b/cda-openapi-3.json?disposition=download">Download
+      href="https://raw.githubusercontent.com/contentstack/contentstack-openapi/master/cda-openapi-3.json">Download
       the CDA file</a> and go to the <a href="https://editor.swagger.io/">Swagger Editor</a>.</li>
   <li>On the “Swagger Editor” page, click on <strong>File</strong>, and select the <strong>Import file</strong> option.
   </li>
@@ -36,16 +36,16 @@
   <li>Status code </li>
 </ul><br>
 <h2>Content Management API</h2>
-<p>Version: 1.0.0 <a
-    href="https://assets.contentstack.io/v3/assets/bltc5a09bf374882538/blt22cbc7d01bd6435b/62380aa22aad143761d361d6/cma-openapi-3.json?disposition=download">[Download]</a></p>
-<p>Last Updated: Jan 22, 2021</p>
+<p>Version: 2.0.0 <a
+    href="https://raw.githubusercontent.com/contentstack/contentstack-openapi/master/cma-openapi-3.json">[Download]</a></p>
+<p>Last Updated: Mar 24, 2022</p>
 <p><strong>Note</strong>: To use the latest version, <a
-    href="https://assets.contentstack.io/v3/assets/bltc5a09bf374882538/blt22cbc7d01bd6435b/62380aa22aad143761d361d6/cma-openapi-3.json?disposition=download">download
+    href="https://raw.githubusercontent.com/contentstack/contentstack-openapi/master/cma-openapi-3.json">download
     the CMA file</a> on your system. </p>
 <p>To use Contentstack Content Management API (CMA) with Swagger, perform the following steps: </p>
 <ol>
   <li><a
-      href="https://assets.contentstack.io/v3/assets/bltc5a09bf374882538/blt22cbc7d01bd6435b/62380aa22aad143761d361d6/cma-openapi-3.json?disposition=download">Download
+      href="https://raw.githubusercontent.com/contentstack/contentstack-openapi/master/cma-openapi-3.json">Download
       the CMA file</a> and go to the <a href="https://editor.swagger.io/">Swagger Editor</a>. </li>
   <li>On the “Swagger Editor” page, click on<strong> File</strong>, and select the <strong>Import file </strong>option.
   </li>
