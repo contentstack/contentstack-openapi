@@ -9,7 +9,7 @@
 <h2>Content Delivery API (CDA)</h2>
 <p>Version: 3.0.0 <a
     href="https://assets.contentstack.io/v3/assets/blt02f7b45378b008ee/bltcca6e1e737dabee0/cda-openapi-3.json?v=3.0.0&disposition=download">[Download]</a></p>
-<p>Last Updated: Feb 06, 2023</p>
+<p>Last Updated: Feb 06, 2023</p> 
 <p><strong>Note</strong>: To use the latest version, <a
     href="https://assets.contentstack.io/v3/assets/blt02f7b45378b008ee/bltcca6e1e737dabee0/cda-openapi-3.json?v=3.0.0&disposition=download">download
     the CDA file</a> on your system. </p>
