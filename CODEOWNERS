@@ -1,1 +1,5 @@
-* @contentstack/security-admin
+* @contentstack/dx-pr-reviewers
+
+.github/workflows/policy-scan.yml @contentstack/security-admin
+
+.github/workflows/issues-jira.yml @contentstack/security-admin
