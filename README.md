@@ -1,5 +1,5 @@
 <img
-  src="https://images.contentstack.io/v3/assets/blt2d43f51baca745a8/bltddc0acd6b98c881c/Contentstack-Logo" width="100" height="100">
+  src="https://images.contentstack.io/v3/assets/blt2d43f51baca745a8/bltddc0acd6b98c881c/Contentstack-Logo" width="70" height="75">
 <h1>Contentstack CDA/CMA OpenAPI</h1>
 <p>Contentstack provides OpenAPI files for its Content Delivery and Content Management REST APIs. These files are in
   JSON format. Using these JSON files, you can automatically generate API documentation, test API, and do a lot more.
